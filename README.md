@@ -1,6 +1,10 @@
 # SpectreApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+API: `https://rickandmortyapi.com/`
+Sass-basics: `https://sass-lang.com/guide`
+Rxjs:`https://rxjs.dev/api`
+Material: `https://material.angular.io/components/categories`
 
 ## Development server
 
